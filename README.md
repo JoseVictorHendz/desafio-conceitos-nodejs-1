@@ -1,8 +1,8 @@
 # Desafio react-native
 https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
 
-## gostack-conceitos-reactjs
-https://github.com/JoseVictorHendz/gostack-conceitos-reactjs
+## desafio-conceitos-reactjs-1
+https://github.com/JoseVictorHendz/desafio-conceitos-reactjs-1
 
-## gostack-conceitos-react-native
-https://github.com/JoseVictorHendz/gostack-conceitos-react-native
+## desafio-conceitos-react-native-1
+https://github.com/JoseVictorHendz/desafio-conceitos-react-native-1
